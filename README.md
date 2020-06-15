@@ -1,42 +1,36 @@
 # ZINAHNAJI
- *cat's meow*.
+ *life is beautiful*
+![MY photo](/zinah 5.jpg)
+## 
 
+Birthday    | 20/10
+------------| -------------
+Favorite color|  gold
+Favorite food  salad
+Pinneapple on pizza|<ul><li>[x ] Yes</li><li>[ x]  No</li></ul>
 
-A (professional) photo of yourself (you can save the file in the repository next to the README file)
+### Hobbies 
 
-"Me, in one sentence" (as a smaller header)
+ - Tv-series
+ - Flute
+ - Tennis
+ - Sport
+    - Jogging  :person_running:
+    - Jogging on the street 
+>
 
-A table with the following structure:
+#### You can always count on me when... 
 
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+I can create beautiful features for websites because I'm using Figma. You can design mobile apps and websites also you can make prototypes in Figma. Additional you can copy a bunch of code of your design...
 
-Hobbies (smaller header)
+##### A funny story 
+Maybe not really funny but good anekdote.
+When i did interrail with my friends we met with a guy in Italy. When we were going to Capri we were talking each other and one guy heard us on a ferry. He asked us which language are we speaking and then we became friend with him. We encountered him in Rome and we just learned that he was a tour guide. So he explained all the details about historical places it was amazing. 
 
-This should contain a bullet list of your hobbies
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+###### TL;DR 
 
-You can always count on me when... (smaller header)
+When i did interrail with my friends we met a guy in Capri and he became our friend and guide.
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
-
-A funny story (smaller header)
-
-Tell a short funny story about your life.
-
-TL;DR (even smaller header, under funny story)
-
-Summarise your funny story in one short sentence.
-
-! IMPORTANT -> At the bottom of the page there should be a next and previous link, this should link to the page of the previous student (alphabetically) and the next one.
-Organise yourself so it is easy to know who you should link to.
-
-The links should have the following structure:
-
-<< previous || YOUR NAME || next >>
-
-
+<< [previous](https://github.com/DriesDD/markdown-challenge/blob/master/README.md)%7C%7C Ezgi || [next](https://github.com/fawadrafique/markdown-challenge/blob/master/README.md) >>
+A 
 
