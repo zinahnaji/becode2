@@ -1,6 +1,6 @@
 # ZINAHNAJI
  *life is beautiful*
-![MY photo](/zinah 5.jpg)
+![MY photo](./zinah+5.jpg)
 ## Iheave
 
 Birthday    | 20/10
