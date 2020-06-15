@@ -1,7 +1,7 @@
 # ZINAHNAJI
  *life is beautiful*
 ![MY photo](./zinah5.jpg)
-## Iheave
+## Ilove the challenge,and i try no matter i have in all the things of my life ,and i love reading because it makes the ability to understand.
 
 Birthday    | 20/10
 ------------| -------------
